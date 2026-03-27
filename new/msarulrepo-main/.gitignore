@@ -1,0 +1,13 @@
+node_modules
+.next
+.next_bak
+dist
+build
+*.zip
+*.7z
+*.rar
+*.tar.gz
+.DS_Store
+.env*
+! .env.example
+
